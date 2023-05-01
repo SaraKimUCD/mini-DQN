@@ -48,7 +48,7 @@ for mn in model_names:
     # Run the game loop without exploration
     #while not done:
     while not done:
-        if action == 0 or total_step%100 == 0:
+        if action == 0:
             action = 1
         else:
             action = dqn.get_action(state_stack, explore=False)
