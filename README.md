@@ -17,4 +17,4 @@ https://doi.org/10.48550/arXiv.1312.5602\
 [4] Gymnasium by Farama \
 https://gymnasium.farama.org/ \
 [5] Raffin, A., Hill, A., Gleave, A., Kanervisto, A., Ernestus, M., Dormann, N., “Stable-Baselines3: Reliable Reinforcement Learning Implementations”, stable-baselines3, 2023 \
-https://stable-baselines3.readthedocs.io/en/master/common/atari_wrappers.html \
+https://stable-baselines3.readthedocs.io/en/master/common/atari_wrappers.html 
